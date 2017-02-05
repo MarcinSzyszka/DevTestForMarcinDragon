@@ -1,0 +1,16 @@
+﻿a:hover {
+	cursor: pointer;
+}
+
+.images-elements-list li {
+	width: 100%;
+	display: inline;
+}
+
+	.images-elements-list li a {
+		margin: 5%;
+	}
+
+.selected-image {
+	border: 5px solid blue;
+}
